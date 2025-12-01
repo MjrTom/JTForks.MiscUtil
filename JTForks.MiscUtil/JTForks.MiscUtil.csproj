@@ -140,7 +140,7 @@
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="9.0.10" />
     <PackageReference Include="System.Diagnostics.EventLog" Version="9.0.10" />
     <PackageReference Include="System.Memory" Version="4.6.3" />
-    <PackageReference Include="System.Reflection.MetadataLoadContext" Version="9.0.10" />
+    <PackageReference Include="System.Reflection.MetadataLoadContext" Version="10.0.0" />
     <PackageReference Include="System.Resources.Extensions" Version="9.0.10" />
     <PackageReference Include="System.Runtime.CompilerServices.Unsafe" Version="6.1.2" />
     <PackageReference Include="System.Security.AccessControl" Version="6.0.1" />
