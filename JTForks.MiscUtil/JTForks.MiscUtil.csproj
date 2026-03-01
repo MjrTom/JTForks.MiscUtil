@@ -124,12 +124,12 @@
     </PackageReference>
     <PackageReference Include="Roslynator.Core" Version="4.15.0" />
     <PackageReference Include="Roslynator.CSharp" Version="4.15.0" />
-    <PackageReference Include="Roslynator.CSharp.Workspaces" Version="4.14.1" />
+    <PackageReference Include="Roslynator.CSharp.Workspaces" Version="4.15.0" />
     <PackageReference Include="Roslynator.Refactorings" Version="4.14.1">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-    <PackageReference Include="Roslynator.Workspaces.Core" Version="4.14.1" />
+    <PackageReference Include="Roslynator.Workspaces.Core" Version="4.15.0" />
     <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
